@@ -1,7 +1,7 @@
 # Assignment 11: Production Defense-in-Depth Pipeline Report
 
 **Course:** AICB-P1 — AI Agent Development  
-**Author:** Nguyễn Văn Duy - 2A202600725
+**Author:** Lê Quang Hưng - 2A202600891
 **Target System:** VinBank AI Customer Assistant  
 
 ---
